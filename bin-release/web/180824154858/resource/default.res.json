@@ -1,0 +1,88 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,newAssets_json,bg_jpg,bg_qiang_png,btn_rank_png,egret_icon2_png,loading_bg_jpg,loading_logo_png,pengyouquan_png,shang_jpg,xia_jpg,ui_json,ui_png,Sprites_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/game/role/newAssets.json",
+			"type": "sheet",
+			"name": "newAssets_json",
+			"subkeys": "1ci,1ci_light,2ci,2ci_light,3ci,3ci_light,framebg,fuhuo,jieshu,wudi"
+		},
+		{
+			"url": "assets/game/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/game/bg_qiang.png",
+			"type": "image",
+			"name": "bg_qiang_png"
+		},
+		{
+			"url": "assets/game/btn_rank.png",
+			"type": "image",
+			"name": "btn_rank_png"
+		},
+		{
+			"url": "assets/game/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon2_png"
+		},
+		{
+			"url": "assets/game/loading_bg.jpg",
+			"type": "image",
+			"name": "loading_bg_jpg"
+		},
+		{
+			"url": "assets/game/loading_logo.png",
+			"type": "image",
+			"name": "loading_logo_png"
+		},
+		{
+			"url": "assets/game/pengyouquan.png",
+			"type": "image",
+			"name": "pengyouquan_png"
+		},
+		{
+			"url": "assets/game/shang.jpg",
+			"type": "image",
+			"name": "shang_jpg"
+		},
+		{
+			"url": "assets/game/xia.jpg",
+			"type": "image",
+			"name": "xia_jpg"
+		},
+		{
+			"url": "assets/game/ui/ui.json",
+			"type": "sheet",
+			"name": "ui_json",
+			"subkeys": "0,1,2,3,4,5,6,7,8,9,bg_shangkuang,bg_wenzi,btn_b,btn_gengduo,btn_kaishi,btn_xuanya,btn_y,btn_zaiwan,egret_icon,fenshu,guanqia,kuang,kuang2,logo_mishitaosheng,shibai,xin,zuigaojilu"
+		},
+		{
+			"url": "assets/game/ui/ui.png",
+			"type": "image",
+			"name": "ui_png"
+		},
+		{
+			"url": "assets/game/role/Sprites.json",
+			"type": "sheet",
+			"name": "Sprites_json",
+			"subkeys": "0020001,0020002,0020003,0020004,0020005,0020006,0020007,0020008,0020009,0020010,0020011,0020012,0020013,0020014,0020015,0020016,0020017,0020018,0020019,0020020,xue0001,xue0002,xue0003,xue0004,xue0005"
+		}
+	]
+}

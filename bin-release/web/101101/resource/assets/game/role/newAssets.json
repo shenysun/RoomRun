@@ -1,0 +1,16 @@
+{
+"file": "newAssets.png"
+,
+"frames": {
+	"1ci": {"x":226, "y":183, "w":43, "h":21, "offX":2,"offY":2,"sourceW":45,"sourceH":25},
+	"1ci_light": {"x":127, "y":183, "w":98, "h":91, "offX":0,"offY":0,"sourceW":98,"sourceH":91},
+	"2ci": {"x":0, "y":243, "w":45, "h":21, "offX":0,"offY":2,"sourceW":45,"sourceH":25},
+	"2ci_light": {"x":0, "y":132, "w":126, "h":110, "offX":0,"offY":0,"sourceW":126,"sourceH":110},
+	"3ci": {"x":46, "y":243, "w":45, "h":21, "offX":0,"offY":2,"sourceW":45,"sourceH":25},
+	"3ci_light": {"x":0, "y":0, "w":152, "h":131, "offX":0,"offY":0,"sourceW":152,"sourceH":131},
+	"framebg": {"x":153, "y":0, "w":127, "h":182, "offX":1,"offY":1,"sourceW":129,"sourceH":184},
+	"fuhuo": {"x":87, "y":275, "w":86, "h":34, "offX":2,"offY":2,"sourceW":88,"sourceH":38},
+	"jieshu": {"x":174, "y":275, "w":77, "h":33, "offX":0,"offY":2,"sourceW":77,"sourceH":37},
+	"wudi": {"x":0, "y":275, "w":86, "h":33, "offX":2,"offY":2,"sourceW":88,"sourceH":37}
+
+}}

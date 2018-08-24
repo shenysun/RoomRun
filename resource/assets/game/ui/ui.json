@@ -1,0 +1,33 @@
+{
+"file": "ui.png"
+,
+"frames": {
+	"0": {"x":34, "y":616, "w":14, "h":22, "offX":0,"offY":0,"sourceW":14,"sourceH":22},
+	"1": {"x":154, "y":615, "w":8, "h":22, "offX":0,"offY":0,"sourceW":8,"sourceH":22},
+	"2": {"x":94, "y":616, "w":14, "h":21, "offX":0,"offY":0,"sourceW":14,"sourceH":21},
+	"3": {"x":79, "y":616, "w":14, "h":21, "offX":0,"offY":0,"sourceW":14,"sourceH":21},
+	"4": {"x":18, "y":616, "w":15, "h":22, "offX":0,"offY":0,"sourceW":15,"sourceH":22},
+	"5": {"x":109, "y":616, "w":14, "h":22, "offX":0,"offY":0,"sourceW":14,"sourceH":22},
+	"6": {"x":124, "y":616, "w":14, "h":22, "offX":0,"offY":0,"sourceW":14,"sourceH":22},
+	"7": {"x":139, "y":615, "w":14, "h":22, "offX":0,"offY":0,"sourceW":14,"sourceH":22},
+	"8": {"x":49, "y":616, "w":14, "h":21, "offX":0,"offY":0,"sourceW":14,"sourceH":21},
+	"9": {"x":64, "y":616, "w":14, "h":21, "offX":0,"offY":0,"sourceW":14,"sourceH":21},
+	"bg_shangkuang": {"x":0, "y":0, "w":480, "h":78, "offX":0,"offY":0,"sourceW":480,"sourceH":78},
+	"bg_wenzi": {"x":0, "y":181, "w":314, "h":322, "offX":0,"offY":0,"sourceW":314,"sourceH":322},
+	"btn_b": {"x":0, "y":504, "w":218, "h":76, "offX":0,"offY":0,"sourceW":218,"sourceH":76},
+	"btn_gengduo": {"x":270, "y":581, "w":134, "h":33, "offX":0,"offY":2,"sourceW":134,"sourceH":37},
+	"btn_kaishi": {"x":135, "y":581, "w":134, "h":33, "offX":0,"offY":2,"sourceW":134,"sourceH":37},
+	"btn_xuanya": {"x":0, "y":581, "w":134, "h":34, "offX":0,"offY":2,"sourceW":134,"sourceH":37},
+	"btn_y": {"x":219, "y":504, "w":218, "h":76, "offX":0,"offY":0,"sourceW":218,"sourceH":76},
+	"btn_zaiwan": {"x":481, "y":0, "w":134, "h":33, "offX":0,"offY":2,"sourceW":134,"sourceH":37},
+	"egret_icon": {"x":315, "y":181, "w":218, "h":295, "offX":0,"offY":0,"sourceW":218,"sourceH":295},
+	"fenshu": {"x":505, "y":141, "w":60, "h":29, "offX":2,"offY":2,"sourceW":64,"sourceH":33},
+	"guanqia": {"x":534, "y":171, "w":59, "h":28, "offX":0,"offY":2,"sourceW":59,"sourceH":32},
+	"kuang": {"x":369, "y":79, "w":135, "h":89, "offX":0,"offY":0,"sourceW":135,"sourceH":89},
+	"kuang2": {"x":505, "y":65, "w":75, "h":75, "offX":0,"offY":0,"sourceW":75,"sourceH":75},
+	"logo_mishitaosheng": {"x":0, "y":79, "w":368, "h":101, "offX":2,"offY":0,"sourceW":370,"sourceH":101},
+	"shibai": {"x":438, "y":477, "w":176, "h":161, "offX":2,"offY":2,"sourceW":181,"sourceH":166},
+	"xin": {"x":0, "y":616, "w":17, "h":14, "offX":4,"offY":3,"sourceW":26,"sourceH":19},
+	"zuigaojilu": {"x":481, "y":34, "w":90, "h":30, "offX":1,"offY":2,"sourceW":91,"sourceH":34}
+
+}}
